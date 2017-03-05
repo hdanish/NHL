@@ -20,7 +20,7 @@ Period|Time|Team|Point getters
 
 ___
 ##TAMPA BAY LIGHTNING @ BUFFALO SABRES
-# Final score: 2-1
+### Final score: 2-1
 
 
 Period|Time|Team|Point getters
